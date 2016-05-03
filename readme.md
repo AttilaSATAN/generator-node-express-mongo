@@ -64,7 +64,7 @@ Available generators:
     - [node-express-mongo:heroku](#heroku)
 
 ### App
-Sets up a new Npde Express Mongo app, generating all the boilerplate you need to get started.
+Sets up a new Node Express Mongo app, generating all the boilerplate you need to get started.
 
 Example:
 ```bash
